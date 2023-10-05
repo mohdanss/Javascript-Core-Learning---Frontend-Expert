@@ -54,3 +54,5 @@ class ExpectedFunctions
         }
     }
 }
+
+export { describe, it, expect };
